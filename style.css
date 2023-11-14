@@ -101,16 +101,17 @@ h2 {
 h3{
     font-size: 15px;
     display: flex;
-    margin: 30px;
+    margin: 20px;
     color: black;
 }
 .tittle{
-    background-color: #d7cf30;
+    background-color: white;
     display: flex;
     align-items: center;
     width: 200px;
     height: auto;
     justify-content: center;
+
 }
 .lista1 a{
     background-color:#e0e1e2;
