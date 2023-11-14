@@ -130,7 +130,7 @@ h3{
 @media (max-width:850px){
     .menu-navegation ul a{
         padding: 10px;
-        margin: 20px;
+        margin: 18px;
     }
     .corrida1{
         display: flex;
